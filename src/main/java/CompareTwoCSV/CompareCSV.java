@@ -21,6 +21,8 @@ public class CompareCSV {
         SparkContext sparkContxt = new SparkContext(new SparkConf());
 
         //That's changes store in development branch
+
+        //now learning for stash
         SQLContext spark = new HiveContext(sparkContxt);
         spark.sql("SET spark.hadoop.hive.exec.dynamic.partition.mode=nonstrict");
         spark.sql("SET spark.hadoop.hive.exec.dynamic.partition=true");
