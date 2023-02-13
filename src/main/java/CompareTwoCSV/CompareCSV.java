@@ -19,6 +19,8 @@ public class CompareCSV {
     public static void main(String args[]) throws FileNotFoundException, IOException
     {
         SparkContext sparkContxt = new SparkContext(new SparkConf());
+
+        //That's changes store in development branch
         SQLContext spark = new HiveContext(sparkContxt);
         spark.sql("SET spark.hadoop.hive.exec.dynamic.partition.mode=nonstrict");
         spark.sql("SET spark.hadoop.hive.exec.dynamic.partition=true");
