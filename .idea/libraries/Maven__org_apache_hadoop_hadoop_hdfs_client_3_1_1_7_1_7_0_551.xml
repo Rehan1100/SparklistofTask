@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-hdfs-client:3.1.1.7.1.7.0-551">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs-client/3.1.1.7.1.7.0-551/hadoop-hdfs-client-3.1.1.7.1.7.0-551.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs-client/3.1.1.7.1.7.0-551/hadoop-hdfs-client-3.1.1.7.1.7.0-551-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs-client/3.1.1.7.1.7.0-551/hadoop-hdfs-client-3.1.1.7.1.7.0-551-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

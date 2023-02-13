@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1868bc24-6713-4309-8d94-a307f82d9ad2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CWKGMKbam6t9KvXbmp45tcV9d1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Rehan/Rehan/SparkLearning/SparklistofTask/src/main/resources&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Rehan\Rehan\SparkLearning\SparklistofTask\src\main\resources" />
+      <recent name="D:\Rehan\Rehan\SparkLearning\SparklistofTask\src\main\java\TaskList" />
+      <recent name="D:\Rehan\SparkLearning\SparklistofTask\src\main\resources" />
+      <recent name="D:\Rehan\SparkLearning\SparklistofTask\src\main\java\Check" />
+      <recent name="D:\Rehan\SparkLearning\SparklistofTask\Reports" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Rehan\Rehan\SparkLearning\SparklistofTask\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ComptedepaiemtAPD299" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CompareCSV">
+    <configuration name="CompareCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareTwoCSV.CompareCSV" />
+      <module name="SparklistofTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CompareTwoCSV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncoursMwallet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encoursmwallet.EncoursMwallet" />
+      <module name="SparklistofTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encoursmwallet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MWallet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MWalletReport.MWallet" />
+      <module name="SparklistofTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MWalletReport.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SparklistofTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskList.MainJson" />
+      <module name="SparklistofTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TaskList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SparklistofTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SparklistofTask" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CompareCSV" />
+      <item itemvalue="Application.MainJson" />
+      <item itemvalue="Application.MWallet" />
+      <item itemvalue="Application.EncoursMwallet" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompareCSV" />
+        <item itemvalue="Application.MainJson" />
+        <item itemvalue="Application.EncoursMwallet" />
+        <item itemvalue="Application.MWallet" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Rehan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1868bc24-6713-4309-8d94-a307f82d9ad2" name="Changes" comment="" />
+      <created>1658912806009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658912806009</updated>
+      <workItem from="1664963529933" duration="4840000" />
+      <workItem from="1664995220256" duration="2048000" />
+      <workItem from="1665032082247" duration="6015000" />
+      <workItem from="1665118398754" duration="16888000" />
+      <workItem from="1665169759939" duration="3451000" />
+      <workItem from="1665378258411" duration="13415000" />
+      <workItem from="1665474568649" duration="1634000" />
+      <workItem from="1665646109127" duration="53000" />
+      <workItem from="1666883916675" duration="1385000" />
+      <workItem from="1666885586071" duration="186000" />
+      <workItem from="1666887453382" duration="763000" />
+      <workItem from="1666894198953" duration="668000" />
+      <workItem from="1666937136040" duration="34000" />
+      <workItem from="1667378785005" duration="13000" />
+      <workItem from="1667468777344" duration="16000" />
+      <workItem from="1667901447615" duration="43000" />
+      <workItem from="1668159601359" duration="850000" />
+      <workItem from="1676280285010" duration="2141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/encoursmwallet/EncoursMwallet.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CompareTwoCSV/CompareCSV.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SparklistofTask$SummaryAgg.ic" NAME="SummaryAgg Coverage Results" MODIFIED="1660203607448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Report33.*</FILTER>
+    </SUITE>
+  </component>
+</project>

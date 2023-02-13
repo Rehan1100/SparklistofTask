@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.parquet:parquet-column:1.10.99.7.1.7.0-551">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/parquet/parquet-column/1.10.99.7.1.7.0-551/parquet-column-1.10.99.7.1.7.0-551.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/parquet/parquet-column/1.10.99.7.1.7.0-551/parquet-column-1.10.99.7.1.7.0-551-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/parquet/parquet-column/1.10.99.7.1.7.0-551/parquet-column-1.10.99.7.1.7.0-551-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
